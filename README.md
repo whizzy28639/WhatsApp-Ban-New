@@ -10,10 +10,14 @@ pkg install toilet -y
 
 pkg install git -y
 
-git clone https://github.com/SAVINDU-DESHAN/Wa-Ban
+git clone https://github.com/whizzy28639/WhatsApp-Ban-New.git
 
-cd wa-ban
+cd WhatsApp-Ban-New
 
 chmod +x *
 
 bash ban2025.sh
+
+<a href="https://t.me/big_whizzy_001">CONTACT ME</a>
+
+<h1>THIS TOOLS IS FOR EDUCATIONAL PURPOSE ONLY</h1>
