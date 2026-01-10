@@ -35,8 +35,6 @@ chmod +x *
 bash ban2025.sh
 ```
 
-<a href="https://t.me/Aowbsjsksb">CONTACT ME</a>
-
 ## 📲 Connect With Me
 
 [![Telegram Profile](https://img.shields.io/badge/Telegram-Profile-blue?logo=telegram)](http://t.me/Aowbsjsksb)
